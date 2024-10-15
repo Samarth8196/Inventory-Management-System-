@@ -55,6 +55,6 @@ Prototypes:
 
 ![Dashboard](images/prototypes/Customers.png)
 
-**For any query contact through: https://afifaniks.github.io** 
+**For any query contact through: https://github.com/Samarth8196** 
 
 
